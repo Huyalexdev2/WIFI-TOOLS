@@ -1,4 +1,5 @@
 @echo off
+mode 42, 27
 title WiFi Tools(make by alex)
 cls
 color A
